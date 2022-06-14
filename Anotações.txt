@@ -5,3 +5,16 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 Resumindo a diferença entre Git e GitHub
 Em suma, o Git é um software de controle de versão, já o GitHub é como se fosse uma rede social de pessoas desenvolvedoras, ou seja, uma plataforma na qual podem compartilhar projetos.
 
+O que é git?
+Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
+
+O que é github?
+O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. 
+Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais. 
+Além disso, quase todos os projetos/frameworks/bibliotecas sobre desenvolvimento open source estão no github, e você pode acompanhá-los através de novas versões, contribuir informando bugs ou até mesmo enviando código e correções. 
+
+Criando uma conta no GitHub
+Acesse o site: https://github.com/
+Clique em SIGN UP, preencha suas informações e pronto, conta criada.
+Após criar a conta, você verá um botão verde +New Repository na qual poderá criar um repositório.
+Na criação no novo repositório você irá definir o nome e a descrição desejada e se ele será publico ou privado. Há também a possibilidade de selecionar o README.md embutido, que contém uma descrição do seu projeto.
